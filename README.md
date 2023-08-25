@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world. I am Artyom.
 
 About me
 
