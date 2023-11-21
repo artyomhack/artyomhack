@@ -1,4 +1,6 @@
-### Hello world. I am Artyom.
+### Цель: Достичь первый офер на позицию Java Junior Developer к 21.04.2023
+
+
 
 
 
