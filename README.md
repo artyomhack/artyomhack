@@ -6,8 +6,7 @@
 
 ## Backend
 - **Языки:** Java Core (версии 17–21), C#, C++
-- **Фреймворки:** Spring (MVC, Boot, Data JPA, Security), Hibernate ORM
-- **Модули и библиотеки:** Jooq, Jackson
+- **Фреймворки\Библиотеки:** Spring (Core, MVC, Data JPA, Security), Hibernate ORM, Jooq, Jackson, Liquibase
 
 ## Data
 - **Базы данных:** PostgreSQL, MySQL
