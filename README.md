@@ -10,7 +10,7 @@
 
 ## Data
 - **Базы данных:** PostgreSQL, MySQL
-- **Сообщения:** Kafka
+- **Брокер сообщений:** Kafka
 
 ## DevOps
 - **Инструменты:** Git, Docker, Linux
